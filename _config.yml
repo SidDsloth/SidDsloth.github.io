@@ -1,1 +1,12 @@
-theme: jekyll-theme-midnight
+title: Manav Singhal
+author: Manav Singhal
+email: manavsinghal157@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal website of Manav Singhal
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://manavsinghal157.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ManavSinghal157
+github_username:  manavsinghal157
+
+# Build settings
+theme: jekyll-whiteglass
